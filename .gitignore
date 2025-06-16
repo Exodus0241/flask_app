@@ -1,0 +1,25 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Python кэш
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.ipynb_checkpoints/
+
+# База данных SQLite
+app.db
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# PyCharm/IDE файлы
+.idea/
+*.iml
+
+# macOS файлы
+.DS_Store
